@@ -9,7 +9,7 @@ To install the frontend module
 cd /frontend && npm install
 ```
 
-To build th frontend code and generate the target files, while developing
+To build the frontend code and generate the target files, while developing
 ```
 cd /frontend && npm run dev
 ```
